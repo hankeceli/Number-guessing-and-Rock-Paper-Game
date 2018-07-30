@@ -1,1 +1,1 @@
-# Number-guessing-and-Rock-Paper-Game
+Game codes are computable at Windows OS by using DEV-C++
