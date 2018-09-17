@@ -1,1 +1,1 @@
-Game codes are computable at Windows OS by using DEV-C++
+Game codes are computable on Windows OS by using DEV-C++
